@@ -4,17 +4,13 @@
 
 To design and implement an automatic light control circuit using an LDR (Light Dependent Resistor) on a breadboard.
 
-**2\. Components Required**  
-**![][image1]**  
 **3\. Circuit Design**
 
 First, the circuit was designed and tested using a simulation. After verifying the working, the same circuit was implemented practically using a breadboard.
 
-![][image2]
+![cricuit](cricuit.png)
 
 **Schematic**
-
-![][image3]
 
 **4\. Procedure**
 
@@ -51,7 +47,7 @@ The LDR senses the surrounding light intensity. When the light level changes, th
 
 The LDR-based automatic light control circuit was successfully simulated and implemented on a breadboard. The LED responds automatically to changes in light intensity.
 
-![][image4]  
+![result](result.png)  
 **9\. Conclusion**
 
 The project demonstrates how an LDR can be used as a light sensor to control an LED automatically. The simulation and practical breadboard implementation were successfully completed.  
